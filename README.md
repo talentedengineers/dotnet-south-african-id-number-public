@@ -29,6 +29,6 @@ Once you have implemented the method, zip your repository and send it back to us
 
 ## Contact
 
-If you have any questions or need further clarification, please reach out to us at barend@talentedengineers.com
+If you have any questions or need further clarification, please reach out to us at barend@untitledpages.co
 
 We look forward to reviewing your solution. Good luck!
