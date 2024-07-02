@@ -1,4 +1,4 @@
-# CSharp South African ID Number Technical Assessment
+# .NET South African ID Number Technical Assessment
 
 In this technical assessment, you will implement a method to validate a South Africa ID Number.
 
@@ -12,12 +12,12 @@ In this technical assessment, you will implement a method to validate a South Af
 ### Clone Repository
 
 ```bash
-git clone https://github.com/talentedengineers/csharp-south-african-id-number-public.git
+git clone https://github.com/talentedengineers/dotnet-south-african-id-number-public.git
 ```
 
 ### Open Solution
 
-Open the solution (`src/CSharpSouthAfricanIdNumber.sln`) in Visual Studio.
+Open the solution (`src/DotNetSouthAfricanIdNumber.sln`) in Visual Studio.
 
 ### Implement Method
 

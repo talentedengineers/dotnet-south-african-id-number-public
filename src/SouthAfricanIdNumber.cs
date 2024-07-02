@@ -1,4 +1,4 @@
-﻿namespace CSharpSouthAfricanIdNumber
+﻿namespace DotNetSouthAfricanIdNumber
 {
     public static class SouthAfricanIdNumber
     {

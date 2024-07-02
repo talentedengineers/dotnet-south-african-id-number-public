@@ -1,4 +1,4 @@
-namespace CSharpSouthAfricanIdNumber.Tests
+namespace DotNetSouthAfricanIdNumber.Tests
 {
     [TestClass]
     public class SouthAfricanIdNumberTest
