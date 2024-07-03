@@ -25,7 +25,7 @@ Implement the `Validate` method in the `SouthAfricanIdNumber` class.
 
 ### Submit
 
-Once you have implemented the method, zip your repository and send it back to us.
+Once you have implemented the above, zip your repository and send it back to us.
 
 ## Contact
 
